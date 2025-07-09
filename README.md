@@ -32,4 +32,4 @@ Gerador de QR Code gratuito, leve e seguro — sem instalação de bibliotecas e
 
 Este projeto é open source. Use, modifique e compartilhe à vontade.
 
-Ainda melhorando
+Ainda melhorando, #feito por ML
