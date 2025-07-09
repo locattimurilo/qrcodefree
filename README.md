@@ -1,6 +1,6 @@
 QRCODEFREE
 
-Gerador de QR Code gratuito, leve e seguro — sem instalação de bibliotecas extras.
+Gerador de QR Code gratuito, leve e seguro — sem instalação de bibliotecas extras e funciona offline.
 
 ✅ Como usar
 
@@ -12,7 +12,9 @@ Gerador de QR Code gratuito, leve e seguro — sem instalação de bibliotecas e
 
     Defina o nome do arquivo.
 
-    O QR Code será gerado, aberto automaticamente e salvo na pasta dist.
+    O QR Code será gerado, aberto automaticamente e você precisa salvar como onde deseja!
+
+OBS: O windows pode não reconhecer, mas o código está 100% aberto, mostrando risco nenhum. Apenas clique em executar mesmo assim.
 
 🛠 Requisitos
 
