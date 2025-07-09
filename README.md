@@ -1,6 +1,7 @@
 QRCODEFREE
 
 Gerador de QR Code gratuito, leve e seguro — sem instalação de bibliotecas extras.
+
 ✅ Como usar
 
     Baixe o repositório completo.
