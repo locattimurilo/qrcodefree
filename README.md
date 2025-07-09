@@ -18,7 +18,7 @@ Gerador de QR Code gratuito, leve e seguro — sem instalação de bibliotecas e
     Python 3.13 instalado no sistema
 
     Nenhuma biblioteca externa precisa ser instalada manualmente
-    (as dependências já estão incluídas no ambiente virtual venv_qrcode)
+    (as dependências já estão incluídas)
 
 💡 Por que usar?
 
