@@ -5,7 +5,7 @@ Gerador de QR Code gratuito, leve e seguro — sem instalação de bibliotecas e
 
     Baixe o repositório completo.
 
-    Dê dois cliques no arquivo geradorqrcode.py.
+    Dê dois cliques no arquivo geradorqrcode.exe
 
     Insira o link ou texto que deseja transformar em QR Code.
 
