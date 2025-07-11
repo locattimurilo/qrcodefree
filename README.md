@@ -1,38 +1,56 @@
-QRCODEFREE
+<h1 align="center">Olá, eu sou o Murilo Locatti 👋</h1>
 
-Gerador de QR Code gratuito, leve e seguro — sem instalação de bibliotecas extras e funciona offline.
+<p align="center">
+  Bem-vindo ao repositório do <strong>QRCODEFREE</strong> — onde ideias simples ganham vida com praticidade e segurança! 🚀
+</p>
 
-✅ Como usar
+---
 
-    Baixe o repositório completo.
+## 🧠 Sobre o Projeto
 
-    Dê dois cliques no arquivo geradorqrcode.exe
+O **QRCODEFREE** é um gerador de QR Code gratuito, leve e seguro — totalmente offline e sem necessidade de instalar bibliotecas extras. Ideal para quem busca **privacidade, segurança e agilidade**.
 
-    Insira o link ou texto que deseja transformar em QR Code.
+Você baixa, executa, digita o link/texto, e pronto: seu QR Code está pronto para uso!
 
-    Defina o nome do arquivo.
+---
 
-    O QR Code será gerado, aberto automaticamente e você precisa salvar como onde deseja!
+## ⚙️ Como Usar
 
-OBS: O windows pode não reconhecer, mas o código está 100% aberto, mostrando risco nenhum. Apenas clique em executar mesmo assim.
+1. Baixe o repositório completo.
+2. Dê dois cliques no arquivo `geradorqrcode.exe`.
+3. Insira o link ou texto desejado.
+4. Defina o nome do arquivo.
+5. O QR Code será gerado, aberto automaticamente, e você só precisa **salvar onde quiser**!
 
-🛠 Requisitos
+> ⚠️ O Windows pode alertar que o arquivo é desconhecido. Não se preocupe — o código é 100% aberto e seguro. Apenas clique em “Executar mesmo assim”.
 
-    Python 3.13 instalado no sistema
+---
 
-    Nenhuma biblioteca externa precisa ser instalada manualmente
-    (as dependências já estão incluídas)
+## 📊 Requisitos Técnicos
 
-💡 Por que usar?
+| Item | Descrição |
+|------|-----------|
+| 🐍 Python | Versão 3.13 |
+| 📦 Bibliotecas externas | Nenhuma instalação manual |
+| 💻 Sistema | Windows |
 
-    Não depende de sites externos — mais privacidade e segurança
+---
 
-    Evita redirecionamentos maliciosos e rastreamento de terceiros
+## 🛡️ Por que Usar?
 
-    Código aberto e leve, ideal para uso pessoal ou profissional
+✅ **Privacidade** — não depende de sites externos  
+✅ **Segurança** — sem rastreadores ou redirecionamentos  
+✅ **Código aberto** — você vê o que roda  
+✅ **Portátil** — pode ser levado em pendrive  
+✅ **Uso pessoal ou profissional**
 
-🧩 Licença
+---
 
-Este projeto é open source. Use, modifique e compartilhe à vontade.
+## 🧩 Licença
 
-Ainda melhorando, #feito por ML
+Este projeto é **open source**.  
+Sinta-se livre para usar, modificar e compartilhar.
+
+---
+
+<p align="center">✨ Ainda melhorando. #FeitoPorML</p>
